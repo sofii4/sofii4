@@ -41,8 +41,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
