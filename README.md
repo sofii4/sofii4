@@ -55,7 +55,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="60" alt="markdown logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo"  />
 </div>
 
 ###
