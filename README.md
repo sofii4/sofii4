@@ -10,14 +10,21 @@
 
 Sou técnica em Informática e estudante de Análise e Desenvolvimento de Sistemas. Com uma base sólida em desenvolvimento de software, hoje direciono minha carreira para o ecossistema de DevOps, infraestrutura em nuvem e Platform Engineering. Sou movida por automação, otimização de processos e pela construção de estruturas inteligentes que reduzam custos e tempo de operação.
 
-[LinkedIn](https://www.linkedin.com/in/sofia-lopes-silva/) · [Email](mailto:sofia.ls.dev@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/sofia-lopes-silva/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-4a3b5c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sofia.ls.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-2e1f3c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### 🚀 DevOps & Cloud
+### 👾 DevOps & Cloud
 Ambientes Linux (VMs) · Containerização com Docker · CI/CD com GitHub Actions · Infraestrutura Cloud (Azure & AWS) · Monitoramento e Observabilidade (Prometheus & Grafana) 
 
-### 💻 Software Engineering
+### ⚙️ Software Engineering
 Python (Flask, Django) · JavaScript · Node.js · Banco de Dados (MySQL, PostgreSQL, SQLite) · Redis · Traefik · Nginx · HTML5 & CSS3 (TailwindCSS, Bootstrap) · Git & GitHub · Testes Automatizados
 
 ---
