@@ -8,7 +8,7 @@
 
 *DevOps Junior & Fullstack Developer* — Xanxerê, Santa Catarina, Brasil
 
-Sou técnica em Informática e estudante de Análise e Desenvolvimento de Sistemas. Com uma base sólida em desenvolvimento de software, hoje direciono minha carreira para o ecossistema de DevOps, infraestrutura em nuvem e Platform Engineering. Sou movida por automação, otimização de processos e pela construção de estruturas inteligentes que reduzam custos e tempo de operação.
+Desenvolvedora com base Fullstack (IFSC) e graduanda em Análise e Desenvolvimento de Sistemas, hoje direciono minha carreira para o ecossistema de DevOps, Cloud e Platform Engineering. Atuando como Suporte de TI e Assistente DevOps, transformo a paixão por automação e eficiência em soluções práticas para o dia a dia corporativo. Atualmente, foco meus estudos e projetos no domínio de ambientes Linux, containerização com Docker, infraestrutura em Cloud e automação de pipelines de CI/CD com GitHub Actions, buscando constantemente criar estruturas inteligentes, ágeis e escaláveis.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sofia-lopes-silva/" target="_blank">
@@ -29,7 +29,7 @@ Python (Flask, Django) · JavaScript · Node.js · Banco de Dados (MySQL, Postgr
 
 ---
 
-### 💼 Experiência Professional
+### 💼 Experiência Profissional
 
 - **Suporte de TI | DevOps Assistant** @ Intelisis - Sistemas Inteligentes de Infraestrutura de TI (Atual)
   * Vivência diária com desenvolvimento de aplicações integrando conceitos da cultura DevOps. Automatização de processos, containerização de aplicações e infraestrutura Cloud.
