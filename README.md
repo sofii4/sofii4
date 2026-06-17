@@ -1,69 +1,43 @@
-<h1 align="center">Hey 👋 I'm Sofia</h1>
 
-###
 
-<p align="center">IT Technician (IFSC) | Systems Analysis & Development Student<br><br>Tech enthusiast, currently focused on transitioning to DevOps with a long-term goal in Platform Engineering.</p>
+<p align="center">
+  <img width="1000" height="400" alt="d99f9ad1dd9beeea321387b96f587dac" src="https://github.com/user-attachments/assets/396bff7d-a293-48eb-8627-26b530ad20ae" />
+</p>
 
-###
+# Hi! I'm Sofia👋
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="60" alt="markdown logo"  />
-  <img width="12" />
-</div>
+*DevOps Junior & Fullstack Developer* — Xanxerê, Santa Catarina, Brasil
 
-###
+Sou técnica em Informática e estudante de Análise e Desenvolvimento de Sistemas. Com uma base sólida em desenvolvimento de software, hoje direciono minha carreira para o ecossistema de DevOps, infraestrutura em nuvem e Platform Engineering. Sou movida por automação, otimização de processos e pela construção de estruturas inteligentes que reduzam custos e tempo de operação.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sofii4/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect%20w%20me&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+[LinkedIn](https://www.linkedin.com/in/sofia-lopes-silva/) · [Email](mailto:sofia.ls.dev@gmail.com)
 
-###
+---
+
+### 🚀 DevOps & Cloud
+Ambientes Linux (VMs) · Containerização com Docker · CI/CD com GitHub Actions · Infraestrutura Cloud (Azure & AWS) · Monitoramento e Observabilidade (Prometheus & Grafana) 
+
+### 💻 Software Engineering
+Python (Flask, Django) · JavaScript · Node.js · Banco de Dados (MySQL, PostgreSQL, SQLite) · Redis · Traefik · Nginx · HTML5 & CSS3 (TailwindCSS, Bootstrap) · Git & GitHub · Testes Automatizados
+
+---
+
+### 💼 Experiência Professional
+
+- **Suporte de TI | DevOps Assistant** @ Intelisis - Sistemas Inteligentes de Infraestrutura de TI (Atual)
+  * Vivência diária com desenvolvimento de aplicações integrando conceitos da cultura DevOps. Automatização de processos, containerização de aplicações e infraestrutura Cloud.
+
+---
+
+### 🎓 Educação & Formação
+
+- **Análise e Desenvolvimento de Sistemas** @ Unochapecó (Em andamento)
+- **Técnico em Informática** @ IFSC - Instituto Federal de Santa Catarina
+- **English Proficiency** @ Wizard Idiomas 
+---
+
+### 🛠️ Projetos em Destaque
+
+* **[blog-microservices-docker](https://github.com/sofii4/blog-microservices-docker)**: Aplicação fullstack baseada em uma arquitetura de microsserviços. Focada em escalabilidade, automação de infraestrutura com Docker e implementação de monitoramento contínuo utilizando Prometheus e Grafana para observabilidade real do ciclo de vida do software.
+* **[EcoBag](https://github.com/sofii4/EcoBag)**: Sistema Web desenvolvido como projeto de conclusão de curso com foco em incentivar e gerenciar a separação correta de lixo reciclável na comunidade local.
 
