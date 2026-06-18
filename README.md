@@ -8,7 +8,7 @@
 
 *DevOps Junior & Fullstack Developer* — Xanxerê, Santa Catarina, Brasil
 
-Desenvolvedora com base Fullstack (IFSC) e graduanda em Análise e Desenvolvimento de Sistemas, hoje direciono minha carreira para o ecossistema de DevOps, Cloud e Platform Engineering. Atuando como Suporte de TI e Assistente DevOps, transformo a paixão por automação e eficiência em soluções práticas para o dia a dia corporativo. Atualmente, foco meus estudos e projetos no domínio de ambientes Linux, containerização com Docker, infraestrutura em Cloud e automação de pipelines de CI/CD com GitHub Actions, buscando constantemente criar estruturas inteligentes, ágeis e escaláveis.
+Desenvolvedora com base Fullstack (IFSC) e graduanda em Análise e Desenvolvimento de Sistemas, hoje direciono minha carreira para o ecossistema de DevOps, Cloud e Platform Engineering. Atuando como Suporte de TI e DevOps Assistant, transformo a paixão por automação e eficiência em soluções práticas para o dia a dia corporativo. Atualmente, foco meus estudos e projetos no domínio de ambientes Linux, containerização com Docker, infraestrutura em Cloud e automação de pipelines de CI/CD com GitHub Actions, buscando constantemente criar estruturas inteligentes, ágeis e escaláveis.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sofia-lopes-silva/" target="_blank">
@@ -32,8 +32,15 @@ Python (Flask, Django) · JavaScript · Node.js · Banco de Dados (MySQL, Postgr
 ### 💼 Experiência Profissional
 
 - **Suporte de TI | DevOps Assistant** @ Intelisis - Sistemas Inteligentes de Infraestrutura de TI (Atual)
-  * Vivência diária com desenvolvimento de aplicações integrando conceitos da cultura DevOps. Automatização de processos, containerização de aplicações e infraestrutura Cloud.
+  
+  Vivência diária com desenvolvimento de aplicações integrando conceitos da cultura DevOps. Automatização de processos com CI/CD e Github Actions, containerização de aplicações e infraestrutura Cloud.
 
+- **Gestora de Qualidade** @ G&A Empreendimentos
+
+  Liderança de processos e auditorias para manutenção das
+certificações ISO 9001 e SIAC 2021. Foco em padronização de
+fluxos de trabalho, documentação técnica, análise de causa raiz
+de falhas e melhoria contínua de processos internos.
 ---
 
 ### 🎓 Educação & Formação
