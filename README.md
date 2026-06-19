@@ -6,7 +6,7 @@
 
 # Hi! I'm Sofia👋
 
-*DevOps Junior & Fullstack Developer* — Xanxerê, Santa Catarina, Brasil
+*DevOps & Fullstack Developer* — Xanxerê, Santa Catarina, Brasil
 
 Desenvolvedora com base Fullstack (IFSC) e graduanda em Análise e Desenvolvimento de Sistemas, hoje direciono minha carreira para o ecossistema de DevOps, Cloud e Platform Engineering. Atuando como Suporte de TI e DevOps Assistant, transformo a paixão por automação e eficiência em soluções práticas para o dia a dia corporativo. Atualmente, foco meus estudos e projetos no domínio de ambientes Linux, containerização com Docker, infraestrutura em Cloud e automação de pipelines de CI/CD com GitHub Actions, buscando constantemente criar estruturas inteligentes, ágeis e escaláveis.
 
